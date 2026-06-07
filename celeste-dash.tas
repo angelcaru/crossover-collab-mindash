@@ -1,0 +1,14 @@
+# CELESTE DASH 0X
+
+# CrossoverCollab
+# https://gamebanana.com/mods/637482
+
+RecordCount: 1
+
+console load CrossoverCollab/1-Submissions/GeometryDash
+   1
+
+#Start
+Read,ella-TAS/Crossover-Collab/Maps/geometry_dash,Start
+
+ChapterTime: 7:52.277(27781)

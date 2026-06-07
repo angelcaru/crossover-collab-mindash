@@ -1,11 +1,9 @@
-# OTHERSIDE 138X
+# OTHERSIDE 139X
 
 # CrossoverCollab
 # https://gamebanana.com/mods/637482
 
-RecordCount: 5416
-
-Set,CommunalHelper.DeployElytra,E
+RecordCount: 5266
 
 console load CrossoverCollab/1-Submissions/CatAndComparator
    1
@@ -13,72 +11,80 @@ console load CrossoverCollab/1-Submissions/CatAndComparator
 #Start
   36
 
-#lvl_01 - The Beginning (0)
+#lvl_01 - The Beginning
 #0x
-   5,L
-   1,L,J
-  18,L
-   1,L,J
-  14,L
-   1,L,J
-  14,L
-   1,L,J
-  10,L
-   1,L,J,G
-   1,L,K,G
-  11,L
-  40
-
-#lvl_01 - Elytra Flying Course
-#0x
-   4,L,D,PE
-   1,L,J
-  23,L
-Repeat, 3
-   1,L,J
-   1,L,K
-EndRepeat
-   1,L,J
-   6,PE,F,300
-  16,PE,F,270
-   1,N
-Repeat, 39
-   1,J
-   1,O
-EndRepeat
- 103
-   5,R
-  42,R,J,PE
- 300,PE
- 291,PE,F,100
-  89,PE,F,80
- 330,PE,F,105
- 135,PE,F,90
-  40
-
-#lvl_01 - The Beginning (1)
-#0x
-Repeat, 62
-   1,PE,F,70
-   1,PE,F,90
-EndRepeat
+   1,R,J
+  14,R
+   1,R,J
+  20,R
+   1,R,D,J
+   3,R
+   1,R,J,G
+   1,R,K,G
+  14,R
+   2,R,J
+   1,R,K,G
+  11,R
+   1,R,J
+  14,R
+   1,R,J
+  18,R
+   1,R,J
+  18,R
+   1,R,D,J
+  11,R
+   1,R,J,G
+   1,R,K,G
+  13,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+   1,R
   40
 
 #lvl_02 - Discovery
 #0x
-  50,PE,F,90
-  38,PE,F,65
-   3,PE,F,1
-
-#lvl_03 - Into Fire (0)
-#1x
-  33,PE,F,1
-   1,L
-  10,J,G
-   2,L,J,G
-  10,R,K,G
   13,R
    1,R,J
+  13,R
+   1,R,J,G
+   1,R,K,G
+  11,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  18,R
+   1,R,J
+  14,R
+   1,R,J
+   4,R
+   1,R,J,G
+  13,R
+   2,R,D,J
+   1,R,K,G
+   1,R,J,G
+  12,R
+   1,R,J
+  11,R
+
+#lvl_03 - Into Fire (0)
+#2x
+  16,R,D
+   7,R,J
+   7,R
+  13,L
+# You can save this dash by smuggling the elytra state from [01 - Elytra Flying Course] (see https://discord.com/channels/403698615446536203/854300208058073098/1511389724697297027), but you can't go there if you haven't beaten the map yet :(
+  15,U,X
+   7,R,J,G
+  11,R
   14,R,Z
    1,R,J
   10,R
@@ -2730,4 +2736,4 @@ Repeat, 38
    1
 EndRepeat
 
-ChapterTime: 17:39.967(62351)
+ChapterTime: 17:16.371(60963)

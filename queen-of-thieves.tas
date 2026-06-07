@@ -1,0 +1,14 @@
+# QUEEN OF THIEVES 0X
+
+# CrossoverCollab
+# https://gamebanana.com/mods/637482
+
+RecordCount: 1
+
+console load CrossoverCollab/1-Submissions/QueenOfThievesNew
+   1
+
+#Start
+Read,ella-TAS/Crossover-Collab/Maps/king_of_thieves,Start
+
+ChapterTime: 3:26.074(12122)

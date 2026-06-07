@@ -1,0 +1,14 @@
+# CC KIDS 0X
+
+# CrossoverCollab
+# https://gamebanana.com/mods/637482
+
+RecordCount: 1
+
+console load CrossoverCollab/2-Extras/CCKids
+   1
+
+#Start
+Read,ella-TAS/Crossover-Collab/Maps/cc_kids,Start
+
+ChapterTime: 1:50.534(6502)

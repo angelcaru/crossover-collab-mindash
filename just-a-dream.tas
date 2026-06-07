@@ -1,0 +1,17 @@
+# JUST A DREAM 0X
+
+# CrossoverCollab
+# https://gamebanana.com/mods/637482
+
+RecordCount: 1
+
+console load CrossoverCollab/2-Extras/JustADream
+   1
+
+console ah_set_seed 158
+Set CrossoverCollab.TASMode true
+
+#Start
+Read,ella-TAS/Crossover-Collab/Maps/just_a_dream,Start
+
+ChapterTime: 5:56.694(20982)

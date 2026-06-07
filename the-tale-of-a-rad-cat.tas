@@ -1,0 +1,14 @@
+# THE TALE OF A RAD CAT 0X
+
+# CrossoverCollab
+# https://gamebanana.com/mods/637482
+
+RecordCount: 1
+
+console load CrossoverCollab/1-Submissions/CatbirdDadish
+   1
+
+#Start
+Read,ella-TAS/Crossover-Collab/Maps/tale_of_a_rad_cat,Start
+
+ChapterTime: 1:53.407(6671)

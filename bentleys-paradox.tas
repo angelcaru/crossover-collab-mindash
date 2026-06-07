@@ -1,0 +1,14 @@
+# BENTLEY'S PARADOX 0X
+
+# CrossoverCollab
+# https://gamebanana.com/mods/637482
+
+RecordCount: 1
+
+console load CrossoverCollab/1-Submissions/vvvvvv
+   1
+
+#Start
+Read,ella-TAS/Crossover-Collab/Maps/vvvvvv,Start
+
+ChapterTime: 6:57.316(24548)
