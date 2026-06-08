@@ -1,9 +1,9 @@
-# OTHERSIDE 137X
+# OTHERSIDE 136X
 
 # CrossoverCollab
 # https://gamebanana.com/mods/637482
 
-RecordCount: 5520
+RecordCount: 5621
 
 console load CrossoverCollab/1-Submissions/CatAndComparator
    1
@@ -180,19 +180,17 @@ EndRepeat
    1,R
    1
   37,L
-  15,U,X
-   2,R
-   1
-  12,J,G
-   8,K,G
-   1,L,K
-   1,R,K
-   4,J,G
-   8,L,J
-   5,K,G
-   4,R,K
-  25,R,J,G
-  10,R
+  18,U,X
+  18,L,J,G
+   1,K,G
+  10,L,K
+   5,R,K
+   1,R,J,G
+  12,R,K,G
+   5,R
+   1,R,J
+  13,R
+#2540.75, -190.08
    2,R,J
    5,R
    2,R,J
@@ -744,6 +742,7 @@ EndRepeat
   24,R,J,G
   45,L,U,G
   29,L,G
+# @jumpfarm
 Repeat, 22
   81,L,U,J,G
   40
@@ -895,7 +894,8 @@ EndRepeat
   23,L,G
    7,L,D,G
    2,D,G
-Repeat, 28
+# @jumpfarm
+Repeat, 36
   20,L,J,G
   40,L,U,K,G
  134,R,U,G
@@ -1173,8 +1173,8 @@ EndRepeat
   40
 
 #lvl_26 - Dropper
-#1x
-#-1j
+#0x
+#-20j
  137,L,U,G
   40,D,G
   15,R,G
@@ -1197,23 +1197,38 @@ EndRepeat
   24,R,D,G
    5,R,G
    2,R,D,G
-  12,R,J,G
-  26,R,G
+Repeat, 4
+  26,J,G
+  26,K,G
+EndRepeat
+  20,R,J,G
+   6,J,G
+Repeat, 4
+  26,K,G
+  26,J,G
+EndRepeat
+   1,L,K,G
+  19,L,D,G
+  11,D,G
+  25,R,G
   13,G
-   1,R
-  15,R,Z
-   1,L
-   4,J
-  13
-  40,R,G
-  13,R,D,G
+  26,J,G
+  26,K,G
+  10,R,J,G
+  32,R,D,G
+   1,J,G
+ 159,D,G
+  19,R,D,G
+  70,D,G
+  10,L,D,G
+ 130,D,G
+  21,R,D,G
    1,L,D,G
-   9,D,G
+   7,D,G
   40
 
 #lvl_03 - Into Fire (1)
 #0x
-#-0j
   17,L,G
    6,L
    1,L,J,G
@@ -1229,21 +1244,32 @@ EndRepeat
 
 #lvl_27 - Bastion Rooftops
 #0x
-#-2j
- 150,R,U,G
-  33,R,D,G
- 136,R,U,G
-  15,R,J,G
-  66,R,U,K,G
-  68,R,U,J,G
-   2,R
+ 209,R,U,G
+  11,R
+  54,R,J,G
+  10,R
    1,R,J,G
-  15,R,J
-  23,G
-   9,J,G
-  10,R,K,G
-  10,R,D,G
- 103,D,G
+  20,R,J
+  49,R,D,G
+  30,R,G
+  10,R
+  61,R,U,J,G
+   1,K,G
+   7,G
+  16,R,G
+  35,R,U,G
+   3,R
+  12,R,J,G
+   7,R
+  31,R,G
+   2,R
+  46,R,J,G
+   7,K,G
+  10,R,J,G
+  13,R,D,G
+  20,D,G
+   8,L,D,G
+  71,D,G
   40
 
 #lvl_28 - Crumbling Tower
@@ -1312,8 +1338,8 @@ EndRepeat
    3,R
    4
    2,L
-   3,L,J
-  62,L,U,J,G
+   2,L,J
+  63,L,U,J,G
    4,J,G
    9,D
   12,U,X
@@ -2747,4 +2773,4 @@ Repeat, 38
    1
 EndRepeat
 
-ChapterTime: 17:17.187(61011)
+ChapterTime: 18:18.132(64596)
