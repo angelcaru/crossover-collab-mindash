@@ -1,9 +1,9 @@
-# OTHERSIDE 134X
+# OTHERSIDE 133X
 
 # CrossoverCollab
 # https://gamebanana.com/mods/637482
 
-RecordCount: 6433
+RecordCount: 6635
 
 console load CrossoverCollab/1-Submissions/CatAndComparator
    1
@@ -369,56 +369,38 @@ EndRepeat
   40
 
 #lvl_08 - Leap of Faith
-#1x
-#    1,R,D
-#   23,R,J
-#   37,G
-#    2,R,J
-#    1,R,K,G
-#   16,R
-#    1,L,J,G
-#   18,L,D
-#   18,D
-#    2
-#    7,L
-#    3
-#    7,J
-#    5,L
-#    3,L,J
-#   10,L
-#    2
-# Repeat, 7
-#    1,G
-#    1
-# EndRepeat
-#    2,J
-#    7
-#    1,R,D
-#    1,L,D
-#    1,J
-#    5,K,G
-#    6,R
-# Invoke Player.MoveV 0.44
-#    1,J
-#    5,L,J
-#    5,L
-#   99,L,J
+#0x
    1,R,D
-  23,R,J
-  37,G
-   2,R,J
+  22,R,J
    1,R,K,G
-  16,R
-   1,L,G
-  11,D,G
-   4,Z
-   1,R,Z,G
-  22,R,Z
-  12,R,J,G
+   3,L,K
+   2,R,K
+   1,R,J,G
+   2,R,K,G
+   5,R
+   2,R,J
+   1
+   4,R
+   4,L
+   1,G
+   1,J
+   6,K,G
+  18,R,K
+   1,R
+   1,R,D
+   9,L,D,J
+   1,K,G
+   1,L,J,G
+   6,R,J
    3,R
-   2,L
-   4,J
-  15
+   3
+   1,J
+  10
+   1,K
+   5,L,K
+   6,L
+   2,L,K
+  11,L
 Repeat, 5
    1,G
    1
@@ -427,25 +409,29 @@ EndRepeat
    1,L
    1,J
    1,K,G
-  10
-  10,R
+  12
+   2,R
+   6
    1,L
    1,J,G
    1,K,G
    1,L,J,G
-  23,R,J
+  13,R,J
+   7,J
   43
 
 #lvl_09 - Precision
 #1x
-   1,R,J
-   4,J
-  29,R,K,G
+   1,J
+   4
+  27,R,K,G
+   2,K
    9
   15,U,X
    3,L
   29,R,J
-   9,R
+   2
+   7,R
    2
   23,R,J,G
    1,L
@@ -2856,4 +2842,4 @@ Repeat, 38
    1
 EndRepeat
 
-ChapterTime: 18:11.485(64205)
+ChapterTime: 18:11.196(64188)
