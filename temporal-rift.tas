@@ -1,9 +1,9 @@
-# TEMPORAL RIFT 131X
+# TEMPORAL RIFT 128X
 
 # CrossoverCollab
 # https://gamebanana.com/mods/637482
 
-RecordCount: 2166
+RecordCount: 2192
 
 console wipedebug
 console load CrossoverCollab/1-Submissions/Flamecrafter113
@@ -161,46 +161,33 @@ EndRepeat
   18,L,J
    6,K,G
 #CP-3
-#8x
+#5x
    1,J,G
    3
    3,L
    2,R
   13,R,J
- 125,R,X
-  51,R,C
-  57,R,X
-   4,R,D
-  14,R,Z
+  49,R,X
+  22,R,U,C
+  15,U,X
+  13,R
+   1
+  15,U,C
+  35,L,J
+   9,L,K,G
+  48,L,J,G
+  58,L,U,X
+   2,J,G
    1,R,J
-   6,R
-  12,R,J
-  12,K,G
-  12,J,G
-   1,K
-   6,J,G
-   4,Z
-  21,L,J
-   2,K,G
-   1,R,K
-  14,L,J,G
-   1,L,K,G
+  14,L,K,G
+   2,J,G
+   1,R,J
+  14,L,K,G
    1,L,J,G
+   1,L,K,G
   10,L
-   8,L,J
-  37,L,X
-  93,L,C
-  12,L,X
-  43,L,J,G
-   2,J
-   2,K,G
-   1,R,K
-  14,L,J,G
-   1,L,K,G
-   1,L,J,G
-   9,L
-  10,L,J
-  13,L,D
+  11,L,J
+  14,L,D
    8,J
 
 #lvl_a-01
@@ -1381,4 +1368,4 @@ Repeat, 24
    1,J
 EndRepeat
 
-ChapterTime: 5:07.751(18103)
+ChapterTime: 5:03.552(17856)
