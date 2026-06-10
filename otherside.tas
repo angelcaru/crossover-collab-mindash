@@ -1,9 +1,9 @@
-# OTHERSIDE 133X
+# OTHERSIDE 129X
 
 # CrossoverCollab
 # https://gamebanana.com/mods/637482
 
-RecordCount: 6635
+RecordCount: 6815
 
 console load CrossoverCollab/1-Submissions/CatAndComparator
    1
@@ -442,71 +442,47 @@ EndRepeat
   11,R,K
    5,R
    4,R,J
-  29,R,D
+  25,R,D
+   5,D
   40
 
 #lvl_10 - Collection
-#8x
-   2,R,D
-   1,L,D,J
-   8,R,J
+#4x
+   1,D
+   9,R,D,J
    5,R
-  10,R,J
-   4,J
-   4,R,K,G
-  28,U,X
-  14,R
-  13
-  14,J
-  50,U,X
-   2,R
-   4
-  20,R
-   2,R,D
-   7,R
-  22,U,X
-  24,R
-  17,D
-  17,L
-  26,L,U,Z
-   4,L,J
-   5,L,K
-   6,L
-   1,L,J
-   7,L
-  15,L,X
-   4,J
-  14
-  14,R
-Repeat, 5
-   1,G
-   1
-EndRepeat
-   4,G
-   1,R,J
-  14,R
-   1,L
-  14
-   6,D
-Repeat, 5
-   1,G
-   1
-EndRepeat
-   1,G
-  11,J
-  10,R,J
-  30,L
-  10,R
-  10,R,Z
+   7,R,J
+   5,R
+   2,R,J
+  29,U,X
+  26
+   5,J
+  10,L,J
+   3,J
+  20,R,U,X
    4,R,J
-   1,R,K
-   9,R
-  22,R,X
+   2,L,J
+   4,L,K
+   5,K
+   4,L,U,K
+  14,L
+   8,R,D
+  10,L,K
+  18,L
+   2,L,D
+  16,D
+   2,R,D
+  12,D
+   4,L,D
+   1,D
+   1,L
+  14,R,Z
    4,R,J
   22,R,K
-  54,G
-  19,J,G
-  17,U,X
+  52,U,G
+   3,J,G
+  16,K,G
+  14,U,X
   17,J
   40
 
@@ -2842,4 +2818,4 @@ Repeat, 38
    1
 EndRepeat
 
-ChapterTime: 18:11.196(64188)
+ChapterTime: 18:06.623(63919)
