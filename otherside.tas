@@ -1,9 +1,9 @@
-# OTHERSIDE 129X
+# OTHERSIDE 125X
 
 # CrossoverCollab
 # https://gamebanana.com/mods/637482
 
-RecordCount: 6815
+RecordCount: 7441
 
 console load CrossoverCollab/1-Submissions/CatAndComparator
    1
@@ -487,7 +487,7 @@ EndRepeat
   40
 
 #lvl_11 - Scrapped Technology
-#3x
+#2x
    3,J
    1,R,K,G
    1,R,J,G
@@ -496,99 +496,154 @@ EndRepeat
    8,R,K,G
   15,R,X
    1,R,J
-  46,R
-  20,R,U,Z
-   5,R,J
-   4,G
-   4,J
-   7,R
-   5,L
-  11,J
-  12,R,K
-  10,L,J,G
-  10,L,G
+  13,R
+  12,G
+  12,D,G
+   2,R
+   7,R,U,Z
+  16,R
+   5
+   6,J,G
+   1,K,G
+   5,R
+   2
+   1,R
    1
-   1,J
-   1,L,K,G
-  42,R,K
-  21,R,U,X
+   1,L
+  10,D,J
+  10,L,J
+   6,K,G
+   1,R
+   1,G
    1,R,J,G
    1,R,K,G
-  11,R
+   1,R,J,G
+   1,R,K,G
+  25,R,J,G
+  33,R,K
+   3,R,J
   40
 
 #lvl_12 - Chase
-#4x
-   2,R
-   1,R,J
-  14,R
-  12,R,J
-  10,R
-  13,R,D,X
-  16,R,J
-  45,L
-  11,R
-  30,G
-   5,R,J
-  13,R
-   4
-   1,R
+#3x
    2,R,J
-  25,R,K
-Repeat, 21
-   1,G
-   1
-EndRepeat
-   1,G
-  19,R,J
-  15,L
-  11,G
-   1,R,J
-  18,R,D
-   1,L,D
-   1,J
-   1,L,K,G
-  13,R,K
+   4,R
+  10,R,D,X
+   9,R,J
+  26,J
+   1,R
+   9
+  18,L
+  11,R
+  30,J
+   4,R,J
    2
-   4,J
-   6,U,X
-  29,L,J
-   6,K
-   5,L
+   2,R
+   1,L
+   1,J
+   2,K,G
+   1,R,K
+   1,L,J,G
+  21,R,J
+  13
+   2,J,G
+   1,K,G
+   1,J
+   6,K,G
+   1,L,K
+  29,R,K
+   9,G
+   1
+   1,J
+   6,L,J
+   1,K
+   1,J
+   1,R
+   1,L
+   3,J,G
+   2
+   8,R
+  20
+   6,D
+   1,J
+   1,K
+   1,J
+   1,L,J
+  10,L,D
+   1,J,G
+   1,R,J
+  12,J
    2,L,J
-  13,L
-  13,U,X
-  47,R,J
-  41,R,D,X
-   1,L,D
+  10,J
+   2,R
    1,J
    1,L,K,G
-   7,R,K
+  16,R,K
+  19,L,U,X
+   2
+  16,L
+   4,J
+   9
+  14,U,X
+   5,R,J
+  48,R,D
+   3,D
+   6
+   3,R
+   1
+   1,J
+   2,L,K,G
+   4,L,J,G
   40
 
 #lvl_12b - Abyss
-#2x
-   7,R,K
-  54,R,J,G
-  15,R,U,X
-   1,R,J,G
-  12,R,K,G
-   5,J,G
+#0x
+   5,R,J
+   4,R,K,G
+   5,R
+   3,R,J
+  25,R
+   1,D
+   2
+   6,D
+   1
+   1,D
+   1,J,G
+   1,R
+   1,L
+   1,R,K,G
+   3,R,J,G
    1,L,J
-  49,R,K,G
-  30,R,U,Z
-  11,L
-  12,L,K,G
-   3,J,G
-  51,R,K
-  10,R,J
-  26,R
+   1,K
+  25,R,K
+   9,J,G
+   1,L,J
+   1,K
+   1,J
+   8,L,J
+   2,R,J
+   1,K,G
+   1,L,K
+   5,R,K
+   7,J,G
    1,R,J
-  14,R
+   1,J
+   1,R,J
+   1,J
+   1,L,J
+   1,K
+  18,R,K
+   1,J,G
+   1,L,J
+   6,R,J
+  10,K,G
+   7,R,K
+   2,R
    1,R,J
   14,R
    1,R,J
   18,R
+   6,R
    1,R,J
    1,R
   40
@@ -2818,4 +2873,4 @@ Repeat, 38
    1
 EndRepeat
 
-ChapterTime: 18:06.623(63919)
+ChapterTime: 18:03.461(63733)
