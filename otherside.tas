@@ -3,7 +3,7 @@
 # CrossoverCollab
 # https://gamebanana.com/mods/637482
 
-RecordCount: 9389
+RecordCount: 9571
 
 console load CrossoverCollab/1-Submissions/CatAndComparator
    1
@@ -865,6 +865,7 @@ EndRepeat
 
 #lvl_15 - Souljelly
 #2x
+#+2j
    1,L
    4,R
    1,R,K
@@ -1056,7 +1057,7 @@ EndRepeat
    1,L,J
   40,J
 
-#lvl_18 - Deadly Fires (0)
+#lvl_18 - Deadly Fires
 #0x
 #-1j
    4,L,J
@@ -1152,25 +1153,76 @@ EndRepeat
   23,L,G
    7,L,D,G
    2,D,G
-# @jumpfarm
-Repeat, 36
-  20,L,J,G
-  40,L,U,K,G
- 134,R,U,G
-  40
+#+2j @jumpfarm 2J / loop
+#Repeat, 1
+  19,L,J,G
+  34,L,U,K,G
+ 100,R,U,G
+  18,R,D,G
+   1,R,J,G
+  57,R,D,G
+   5,D,G
+  64,L,J,G
+  16,L,D,G
+   4,L,G
+   2,G
+#EndRepeat
 
-#lvl_18 - Deadly Fires (1)
-#0x
-  15,R,G
-  15,L,J,G
-  40
+#+70j @jumpfarm 10J / loop
+Repeat, 7
+  25,L,J,G
+   1,L,G
+  30,L,U,K,G
+  12,R,U,K,G
+   9,R,U,J,G
+  10,L,U,J,G
+  21,L,U,K,G
+   1,U,K,G
+   1,L,U,K,G
+   3,U,K,G
+   2,G
+  69,R,U,J,G
+   1,L,J
+   1,R,J
+   1,G
+   1,R,J,G
+   1,K
+   1,J
+   7,L,J
+  46,R,J,G
+   5,R,J
+   1
+   1,R,K,G
+   7,K
+   1,R,K
+  26,R,J,G
+   1,L,J
+   1,R,J
+   4,K,G
+   1,L,K
+   2,J
+   1,L,J
+  63,L,U,K,G
+  37,L,D,G
+   6,L,G
+  94,L,U,J,G
+  30,L,D,G
+  64,R,U,G
+  64,L,U,G
+  28,R,U,G
+  18,R,D,G
+ 207,R,U,J,G
+  14,R,D,G
+   1,R,J,G
+  57,R,D,G
+   5,D,G
+  64,L,J,G
+  16,L,D,G
+   4,L,G
+   2,G
+EndRepeat
 
 #lvl_19 - The Four Gates (1)
-#0x
-  24,L,G
-   6,L,D,G
-   2,D,G
-EndRepeat
 #+2j
 # Set ExtendedVariantMode.JumpCount 2147483647
   20,L,J,G
@@ -2915,7 +2967,6 @@ Repeat, 3
   15,L
 EndRepeat
    6,L
-
   45,L,J
   13,L,Z
   12,L,J
@@ -3035,4 +3086,4 @@ Repeat, 38
    1
 EndRepeat
 
-ChapterTime: 15:30.053(54709)
+ChapterTime: 14:17.667(50451)
