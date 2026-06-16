@@ -1,7 +1,7 @@
 # CrossoverCollab
 # https://gamebanana.com/mods/637482
 
-RecordCount: 1630
+RecordCount: 1654
 
 console load CrossoverCollab/1-Submissions/Catbird
    1
@@ -597,18 +597,16 @@ EndRepeat
    1,R,X
   29
    1,X
-   5
-   1,X
+   1,C
   54
    1,X
-   5
-   1,X
-  30
+   1,C
+  29
    1,D
    1
    1,D
    1,J
-  72
+  71
    1,X
    5
    1,X
@@ -626,8 +624,7 @@ EndRepeat
    1,X
   50
    1,X
-   5
-   1,X
+   1,C
   27
    5,R
    1,R,J
@@ -820,4 +817,5 @@ EndRepeat
    1,R,J
    6,R
  266
-ChapterTime: 2:46.192(9776)
+
+ChapterTime: 2:45.903(9759)
