@@ -1,7 +1,7 @@
 # CURLY BRACE DANCE 203X
 
 # record count is wrong
-RecordCount: 136
+RecordCount: 137
 
 console load CrossoverCollab/2-Extras/curly
    1
@@ -334,5 +334,6 @@ Repeat, 59
    1,L
    1,R
 EndRepeat
+   1,L
 
 ChapterTime: 3:02.580(10740)
