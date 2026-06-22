@@ -3,7 +3,7 @@
 # CrossoverCollab
 # https://gamebanana.com/mods/637482
 
-RecordCount: 9571
+RecordCount: 11278
 
 console load CrossoverCollab/1-Submissions/CatAndComparator
    1
@@ -1057,7 +1057,7 @@ EndRepeat
    1,L,J
   40,J
 
-#lvl_18 - Deadly Fires
+#lvl_18 - Deadly Fires (0)
 #0x
 #-1j
    4,L,J
@@ -1150,26 +1150,11 @@ EndRepeat
 
 #lvl_19 - The Four Gates (0)
 #0x
+#+10j
   23,L,G
    7,L,D,G
-   2,D,G
-#+2j @jumpfarm 2J / loop
-#Repeat, 1
-  19,L,J,G
-  34,L,U,K,G
- 100,R,U,G
-  18,R,D,G
-   1,R,J,G
-  57,R,D,G
-   5,D,G
-  64,L,J,G
-  16,L,D,G
-   4,L,G
-   2,G
-#EndRepeat
-
-#+70j @jumpfarm 10J / loop
-Repeat, 7
+   1,D,G
+   1,G
   25,L,J,G
    1,L,G
   30,L,U,K,G
@@ -1214,347 +1199,474 @@ Repeat, 7
  207,R,U,J,G
   14,R,D,G
    1,R,J,G
-  57,R,D,G
+   7,R,D,G
+  40,J
+
+#lvl_18 - Deadly Fires (1)
+#0x
+  10,R,D,G
    5,D,G
-  64,L,J,G
+  14,L,J,G
+  40,J
+
+#lvl_19 - The Four Gates (1)
+#0x
+#+9j
+  10,L,J,G
   16,L,D,G
    4,L,G
    2,G
-EndRepeat
-
-#lvl_19 - The Four Gates (1)
-#+2j
 # Set ExtendedVariantMode.JumpCount 2147483647
-  20,L,J,G
-  40,L,U,K,G
-   6,R,U,G
-  19,R,J,G
-   4,K,G
-  43,L,U,K,G
-   1,L,D
-  14,J,G
-  34,L,G
-  10,L,J,G
-   5,R,J,G
-  54,R,K,G
-  23,R,J,G
-  23,L,J,G
-  11,L,K,G
-   2,K,G
-   1,D
-  22,G
+  25,L,J,G
    1,L,G
-   1,D
-  23,L,G
-   1,D
-  20,G
-   3,L,G
-   1,D
-   1
-  21,L,G
-   1,D
-  19,L,G
-   2,G
-   1,D
-  18,G
-   5,L,G
-   1,D
-  18,L,G
-   3,G
-   1,D
-  18,L,G
-   3,G
-   1,D
-  21,G
+  30,L,U,K,G
+  12,R,U,K,G
+   9,R,U,J,G
+  10,L,U,J,G
+  26,L,U,K,G
+   1,L,G
    1,L
-  13,G
-  55,D,G
-   3,L,D,G
-   3,D,G
-  15,L,D,G
-   8,L
-  34,R,J
-   1,G
-   1,R,J,G
-  14,R,J
-   2,L,U,J
-  58,L,U,J,G
-  24,R,K,G
-   1,D
-  23,L,G
-   1,D
-  23,L,G
-   1,D
+   3,L,J,G
+  16,L
+   8,L,J
+  19,L,D
+   1,J,G
+   1,L
+   1,R
+   1,K
+  11,L,K
+  33,L,K,G
+   1,R
+   2,L
+   1,K
+  20,R,J
+  40,R,U,K,G
+   2,U,K,G
+   4,R,U,K,G
+   2,U,K,G
+   1,R
+  15,R,J,G
+   5,L,J
+  18,L,J,G
+  26,L,U,K,G
+   5,U,K,G
+   1
+   2,R
+  25,R,D,G
+  32,L,D,G
+  12,L,J,G
+  28,L,U,G
+   9,U,G
+   6,G
+   6,U,G
+  24,D
+   1,J
+  16,L,J
+   3,J
+  21,L,J,G
+   1,L,J
+  84,L,U,J,G
   20,L,G
-   3,G
-   1,D
-  80,L,G
-  42,L,D,G
+  10,U,G
+  65,G
+  11,R,U,G
    1,L
-  23,J
-  65,R,U,G
-  23,R
-  18,L
-   3,D
-   3
-   1,G
-  22,L,J
-  12,L
-Repeat, 29
+   2,R
+  49,R,U,J,G
+   1,R
+  19,R,D
+  12,D
+   9,L,D
+  12,L,J,G
+  19,L
    1,G
    1
+Repeat, 7
+   1
+   1,G
 EndRepeat
    1,J
-  45,L,J,G
-  96,L,K,G
-  21,L,D,G
-   5,L,J,G
-  14,L,U,G
-   2,L,J,G
+   1,R
+   1,K
+  19,L,K
+  21,L,K,G
+   1,R,K
+ 121,L,K,G
+  15,L,D,G
+   2,G
+   9,L,U,J,G
   40,J
 
 #lvl_20 - Pathway
 #0x
-#-2j
- 126,L,U,J,G
- 119,L,U,K,G
-   2,L,J,G
+#-1j
+  10,L,U,J,G
+   7,L,D,G
+  16,D,G
+   3,L,D,G
+   1,D,G
+  40,L,U,J,G
+  40,L,J,G
+  21,L,U,J,G
+   4,L,J
+   1,L,K,G
+   1,L,J,G
+  12,L,K,G
+   8,L,K
+  98,L,U,K,G
+  12,L,U,J,G
   40,J
 
 #lvl_21- Mr. McFire
 #0x
 #-2j
- 291,L,U,J,G
-  70,L,U,K,G
- 109,L,U,J,G
-  40
+  75,L,J,G
+   5,L,D,J,G
+  20,L,K
+ 136,L,U,K,G
+   5,L,K,G
+   1,L,U,K,G
+  13,L,K
+   2,L,J,G
+   4,R,J
+   2,L,J
+   5,L
+   1,L,K,G
+   1,L,J,G
+  18,L,J
+ 120,L,U,J,G
+  94,L,U,K,G
+  16,L,U,J,G
+  40,J
 
 #lvl_21b - Fire in the Wool
 #0x
-#-10j
-  96,L,U,J,G
-  36,L,U,K,G
-   9,L,U,J,G
-  49,L,U,K,G
- 160,L,U,J,G
- 200,L,U,K,G
-  43,L,U,J,G
-  65,L,U,K,G
-  20,L,U,J,G
-   1,L,U,K,G
-  39,L,U,J,G
- 258,L,U,K,G
-  11,L,J,G
-  40,J
+#-5j
+  54,L,U,J,G
+   1,L,G
+   2,L
+   5,L,J,G
+   5,L
+   1,S,N
+  10,J
+   6,L,J
+  32,L,G
+   2,L,D,G
+  33,L,U,J,G
+  29,L,D,J,G
+  62,L,K,G
+   6,L,D,G
+   2,L,G
+  18,L,J
+  30,L,U,J,G
+  30,L,U,K,G
+  43,L,G
+#fake jump :( so close
+  56,L,U,J,G
+  54,L,J,G
+  88,L,U,J,G
+   4,L,D,G
+   2,L,G
+  24,L,U,K,G
+  10,L,G
+  28,L,U,J,G
+   6,L,U,K,G
+  11,L,U,G
+   5,U,G
+  12,L,U,G
+   1,G
+  12,L,U,G
+   2,L,D,G
+  31,L,U,J,G
+  21,L,D,G
+  50,L,U,J,G
+ 106,L,J,G
+  17,L,U,J,G
+   4,L,J
+   1,L,K,G
+   1,L,J,G
+  17,L,J
+ 124,L,U,J,G
+   7,L,U,K,G
+  40,K
 
 #lvl_22 - Blazing Inferno
 #0x
-#-9j
-  70,L,U,J,G
-  59,L,K,G
-  27,L,D,G
- 304,L,U,J,G
-Repeat, 2
-  38,L,U,K,G
-  38,L,U,J,G
-EndRepeat
- 154,L,U,K,G
-  38,L,U,J,G
-  38,L,U,K,G
- 106,L,U,J,G
-  43
+#-4j
+ 113,L,U,K,G
+   6,L,D,G
+   9,L,U,J,G
+  29,L,D,G
+  34,L,U,J,G
+ 169,L,U,K,G
+   2,L,G
+ 209,L,U,J,G
+   1,L,G
+   4,L
+   1,L,J,G
+ 189,L,U,K,G
+  45,L,U,J,G
+   3,L,D
+  36,R,J,G
+   1,L,J
+   1,R,J
+   5,K,G
+   1,L,K
+   1,J
+  19,L,K
+ 156,L,U,K,G
+   2,L,U,J,G
+  43,J
 
 #lvl_22b - Endless Corridors
 #0x
-#-9j
-  99,L,U,J,G
-  13,L,D,G
-  50,L,U,J,G
-  98,L,U,K,G
-  23,L,U,J,G
-  10,L,U,K,G
-  10,L,U,J,G
-  10,L,U,K,G
- 137,L,U,J,G
-  70,L,U,K,G
-  63,L,U,J,G
-  40
+#-3j
+ 275,L,U,J,G
+  58,L,U,K,G
+  46,L,U,J,G
+  58,L,U,K,G
+   2,J
+   4,L,J
+   2,J
+   6,R,K
+   1,L,J
+  21,L,J,G
+   6,R,K,G
+   1,G
+  55,L,U,J,G
+  10,L,D,G
+  57,L,U,J,G
+  22,L,G
+   5,L
+   1,L,J,G
+  41,L,U,K,G
+  40,K
 
 #lvl_23 - Ancient City
 #0x
-#-9j
-  31,L,U,G
-  18,L,U,J,G
-  53,L,U,K,G
- 118,L,U,J,G
-Repeat, 3
-  38,L,U,K,G
-  38,L,U,J,G
-EndRepeat
- 295,L,U,K,G
-  57,L,U,J,G
+#-4j
+  30,L,U,K,G
+  17,L,U,J,G
+   2,L
+   1,R,J,G
+   1,L,J
+   1,J
+  20,L,K
+ 199,L,U,K,G
+   6,L,U,G
+   9,D,G
+   1,L,D,G
+   1
+  17,L,J
+  34,L,J,G
+  12,L,D,G
+   3,L,G
+  20,L,J
+  40,L,U,J,G
+  50,L,U,K,G
+  83,L,U,J,G
+   2,L,G
+   2,L,U,G
+  17,L,D,G
+   2,L,G
+  20,L,J
+  40,L,U,J,G
+ 110,L,U,K,G
+   2,U,K,G
+   4,L,U,K,G
+   2,L,K
+   1,J,G
+   2,L,J
+   1,L,K,G
+  19,L,K
+  74,L,U,K,G
+  18,L,J
+  53,L,U,J,G
   40
 
 #lvl_24 - Fallen Down
 #0x
-#-0j
-  51,L,U,G
-  23,U,G
-  31,D,G
+  43,L,U,J,G
+  20,U,J,G
+   1,L,U,J,G
+  15,U,J,G
+  16,D,G
+  10,L,D,G
+   1,D,G
+  21,L,D,G
+  14,L,U,G
+   9,L,D,G
+   5,L,U,G
+  23,R,U,G
+  14,R,D,G
+   6,R,J
+  12,R
+  17,R,G
+  14,L,G
   24,L,D,G
-  20,L,U,G
-  22,D,G
-   2,U,G
-   3,R,U,G
-   6,R,K,G
-  20,R,U,G
-   6,R,J,G
-  33,R,G
-  15,L,D,G
- 165,L,U,G
-  27,R,D,G
-  58,R,G
-   7,D,G
+   9,L,G
+  37,L,D,G
+  17,L,U,J,G
+  22,L,D,G
+  28,L,J,G
+   6,L,D,G
+  42,R,D,G
+   3,R,G
+   3,R,D,G
+   5,R,J,G
+  30,R,G
+   5,R,D,G
    1,L,D,G
-  27,D,G
-  31,L,D,G
-  25,R,G
+  19,D,G
+  27,L,D,G
   24,R,D,G
-  20,D,G
-  56,R,D,G
- 119,L,D,G
+   8,R,G
+   6,R,D,G
+  12,D,G
+  65,R,D,G
+ 125,L,D,G
   40
 
 #lvl_25 - A Familiar Forest
 #0x
-#-13j
   15,L,D,G
-  10,L,G
-  13,L,J,G
-  88,L,G
-   1,L,D
-   1,G
-   1,L,J
-  13,L
-  21,R
-Repeat, 44
-   1,G
+   6,L,G
+   3,G
+   1,L,G
+  19,L,J,G
+  65,L,G
+   9,L,D,G
+   1,R
+   3,L
    1
-EndRepeat
-   1,G
-   1,R,J
-   9,R
-  55,R,U,G
+   1,L,J,G
+  32,R,D
    1,R,J,G
-  40,R,D,G
-  53,L,D,G
-  48,D,G
-  11,L,G
-   1,L,J,G
-  24,L,U,G
-   1,J,G
-  30,R,J,G
-   1,L,K,G
-  28,K,G
-   1,R,D
-   1,J,G
-   2,R
+   1,R,K,G
+  18,R
+  14,L,D
+  46,R,D
+  80,D,G
+   2,L,D,G
+   8,D,G
+  24,L,D,G
+  41,D,G
+   1,U,G
+  22,L,U,G
+   2,L,G
    1,L
-  13,K
-  72,L,D,G
-  31,L,U,G
-  18,L,U,J,G
+   6,L,J,G
+  11,L,U,G
+  17,L,U,J,G
+   5,U,J,G
+   1,R,U,J
+   1,L
+   7,J,G
+   1,R,J
+   1,K
+  13,J
+  26,J,G
+   1,D,J
+   1
+   2,G
+  11,J,G
+   1,L,J
+   1,K
+   1,J
+  19,U,J,G
+   4,D,G
+  46,L,D,G
+  30,L,U,G
+   3,L,G
    1,L
    1,L,J,G
-   6,L,J
-  25,L
+   6,L
+   3,L,K,G
+   7,L
+  21,L,J,G
+   4,L
    1,L,J,G
-  36,L,J
+   5,L
+   2,L,K,G
+  20,L,D
+   1,L
+   1,G
+   1,J
+   9,L
+   1,R
+  26,L,K,G
+   8,L,K
+   1,J,G
+   1,R,J
+  10,L,J
+  35,L,J,G
+   1,R,J
+  11,R,K
+   6,R
+  15,R,G
+  26,L,G
+  53,L,U,G
+   5,L,D,G
+  10,D,G
+   3,L,D,G
+  20,D,G
+   1,L,D,G
+   2,D,G
+  20,L,D,G
   14,L,U,G
-  17,L,J,G
-   1,L,K,G
-  10,L,J,G
-  18,R,J,G
-  30,K,G
-  30,R,J,G
-   1,L,K,G
-  29,K,G
-  30,J,G
-  30,L,K,G
-   5,L,J,G
-  22,L,G
-  25,D,G
-  31,L,U,G
   40
 
 #lvl_26 - Dropper
 #0x
-#-20j
- 137,L,U,G
-  40,D,G
-  15,R,G
-  20,D,G
-   8,R,D,G
-  11,D,G
-  10,L,D,G
-  69,D,G
-   7,R,D,G
-  40,D,G
-   8,L,D,G
-  37,D,G
-  11,R,D,G
-  28,L,D,G
-  40,D,G
-  16,R,D,G
-  23,D,G
-  13,L,D,G
-  10,D,G
-  24,R,D,G
-   5,R,G
-   2,R,D,G
-Repeat, 4
-  26,J,G
-  26,K,G
-EndRepeat
-  20,R,J,G
-   6,J,G
-Repeat, 4
-  26,K,G
-  26,J,G
-EndRepeat
-   1,L,K,G
-  19,L,D,G
-  11,D,G
-  25,R,G
-  13,G
-  26,J,G
-  26,K,G
-  10,R,J,G
-  32,R,D,G
-   1,J,G
- 159,D,G
-  19,R,D,G
+   9,L,U,G
+   1,L,J,G
+  19,L,G
+  15,R,D,G
+  29,R,G
+   1,R,D
+   4,R
+   1,R,N
+  21,R
+  14,D
+# spinner cycle
+   0
+#
+ 135,D
+   1,N
+   1,L,J
+  19,L,D
+   1,L,J
+   5,L
+  18,L,D
+  18,R,D
+   1,J
+   7
   70,D,G
-  10,L,D,G
- 130,D,G
-  21,R,D,G
-   1,L,D,G
-   7,D,G
+  15,L,D,G
+  32,R,D,G
+ 184,D,G
+  15,R,D,G
+  34,L,D,G
+  59,R,D,G
+   4,L,D,G
   40
 
 #lvl_03 - Into Fire (1)
 #0x
-  17,L,G
-   6,L
-   1,L,J,G
+   9,L,D,G
    5,L
-   6
+   1,L,J
+  13,L
   30,D,G
-  50,U,G
-  13,L,G
+   2,L,D,G
   11,D,G
-   1,L,D,G
-  77,D,G
+   5,L,D,G
+  10,D,G
+   1,G
+   9,R,U,G
+  13,L,U,G
+   5,L,D,G
+  67,D,G
   40
 
 #lvl_27 - Bastion Rooftops
@@ -3086,4 +3198,4 @@ Repeat, 38
    1
 EndRepeat
 
-ChapterTime: 14:17.667(50451)
+ChapterTime: 12:12.377(43081)
