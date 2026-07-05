@@ -1,9 +1,9 @@
-# OTHERSIDE 45X
+# OTHERSIDE 44X
 
 # CrossoverCollab
 # https://gamebanana.com/mods/637482
 
-RecordCount: 16518
+RecordCount: 16552
 
 console load CrossoverCollab/1-Submissions/CatAndComparator
    1
@@ -1506,9 +1506,7 @@ EndRepeat
  165,R,U,J,G
   40,J,G
 #lvl_24c- Moving Switch
-# 1x
-
-
+# 0x
    8,R,U,J,G
   33,R,U,K,G
    5,R,U,J,G
@@ -1519,9 +1517,24 @@ EndRepeat
   25,U,K,G
   14,J,G
   12,K,G
-   1,L,K
-  15,U,Z
-   1
+  76,R,U,J,G
+  17,R,U,K,G
+  40,R,G
+  34,U,G
+   3,R,U,G
+   1,D
+   4,R,G
+  30,J,G
+  55,D,G
+   8,U,G
+   1,D
+   3,G
+  11,R,J
+  12,L,K
+   7,R,K
+   2,L,K
+   3,L,D,J
+  13,R,K,G
   40
 #lvl_99 - Minecraft Speedrun
 # 0x
@@ -1580,4 +1593,4 @@ EndRepeat
   15,R,X
  140,R
 
-ChapterTime: 6:50.346(24138)
+ChapterTime: 6:55.548(24444)
