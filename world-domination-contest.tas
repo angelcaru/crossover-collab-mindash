@@ -1,9 +1,9 @@
-# WORLD DOMINATION CONTEST 100X
+# WORLD DOMINATION CONTEST 99X
 
 # CrossoverCollab
 # https://gamebanana.com/mods/637482
 
-RecordCount: 2530
+RecordCount: 2653
 
 console load CrossoverCollab/1-Submissions/Inferno_
    1
@@ -178,40 +178,47 @@ EndRepeat
   40
 
 #lvl_b-05
-#3x
+#2x
    1,R,J
-  14,R
-   9,R,J
-   8,R
-  15,U,X
-   4,L
-  22,R
-  14,R,D,X
-  26,R,J
-  16,R,X
-#should be possible by 0.001 but not really a way to manip the subpixels
-#   18
-#   99,R
-  18
-  14,R,D
-  11,R,D,X
+  20,R
+  24,R,J
+  12,L,U,X
+  30,R
+   3
+   8,L,D,X
    1,R,J
    6,R
+   9,R,J
+   5,R
+   6,R,J
+   1,R,D
+   6,D
+  13,R,D
+  19,R
+   1,R,J
+  14,R
+   1,R,J
+   7,R
   40
 
 #lvl_b-06
 #3x
-   1,R
-  10,R,J
-  20,U,X
-  26,J
-  20,R,U,X
-  66,R,U,C
-  15,R,U,X
-  22,R,D
-  36,R,Z
+  15,R
+  20,R,J
+  15,U,X
+   2,R
+  16,J
+   7
+  18,R,U,C
+  14,R,X
+  36,R
+  17,R,U,X
+  15,R,Z
+  20,R,D
    1,R,J
   14,R
+   1,R,J
+  16,R
   40
 
 #lvl_b-07
@@ -1891,4 +1898,4 @@ EndRepeat
   29,L
    4,L,J
 
-ChapterTime: 6:50.159(24127)
+ChapterTime: 6:50.329(24137)
