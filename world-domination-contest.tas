@@ -1,9 +1,9 @@
-# WORLD DOMINATION CONTEST 95X
+# WORLD DOMINATION CONTEST 93X
 
 # CrossoverCollab
 # https://gamebanana.com/mods/637482
 
-RecordCount: 3340
+RecordCount: 3918
 
 console load CrossoverCollab/1-Submissions/Inferno_
    1
@@ -232,22 +232,25 @@ EndRepeat
   13,L,C
   17,R
   15,R,X
-  40,R,C
-  15,U,X
-  17,R
- 126,G
-   1,L,J
-  15,L
-  13
-  16,L
-  15,U,X
+  15,R,C
+  14,L
+   1,R,D
+   2,D
+   1,L,D
+   8,R
+  15,U
   16,R
    1
-  12,J,G
-   6,R,K,G
-  13,R
+   4,J,G
    1,R,J
-  48,R,D
+   1,J
+   1,R,J
+   1,L,J
+   1,R,J
+  13,R,K,G
+   1,R,J,G
+   3,R,K,G
+  51,R,D
   40
 
 #lvl_b-08
@@ -1174,6 +1177,48 @@ Repeat, 80
 EndRepeat
   11,R
   35,R,J
+## cycle skip?
+#   32
+#    7,L,K
+#    3,L
+#   11
+#    5,R,Z
+#    1,R,J
+#    1,R
+#    2,R,J
+#    7,R
+#   28,R,J
+#   14,R,Z
+#    1,R,J
+#    3,R
+#    4
+#   16,R,D
+#    2,R
+#    7,R,J
+#    6,R
+#    1,R,J
+#    1,R
+#    4,R,J
+#    2,R
+#    6
+#    1,R
+#   13,R,Z
+#    1,L,J
+#   13,L,G
+#    5,L,K,G
+#    3,L
+#    1,R
+#    1,L
+#    2,L,J
+#   12,L
+#   24,L,J
+#    8,L
+#   24,L,U,X
+#    1,L,J
+#   20,L
+#  100,L,J
+##
+
  157
   13,R,Z
   28,R,J
@@ -1364,7 +1409,6 @@ EndRepeat
    6,L,J
    1,J
    1,L,J
-   0,J
    3
    1,K,G
    1,R,K
@@ -1685,6 +1729,7 @@ EndRepeat
   40
 
 #lvl_e-01
+#2x
    4,R
    1,R,J
   14,R
@@ -1713,50 +1758,62 @@ EndRepeat
   40
 
 #lvl_e-02
-   7,L
-   1,L,J,G
-   7,L
-   7,J
-  24,L,U,X
-  19,G
-  19,L,D,G
-  24,L,X
-  15,L,C
-  18,U,X
-  12,R,J
-   5,R
+#4x
+   7
+   1,J,G
+   7,L,J,G
    2,R,J
-  14,R
+  14,L,U,X
+   1,J,G
+   7
+  14,D,G
    1,G
-   1,J
-  10
-   3,L
-   1,R,J
-  10,R
-  17,L
-  17,L,X
-   1,G
-   2,J
-  10
-  14,U,G
    1
-  11,R,J
-  45,L,U,Z
    1,L,J,G
-   6,L,K,G
-  28,L
-  11,L,D
-  14,L,Z
+   1,L,K,G
+  15,L,D
+  16,L
+  23,L,X
+  18,U,C
+  22,R,J
+   7,R
+   6,L
+   3,L,J
+  25,L,D
+  12,L,X
+  12,J,G
+   9,K,G
+   5
+   1,R,K
+   1,K
+   1,R
+   1,L
+   5
+   1,G
+   1,J,G
+   2,J
+  35,L,J
+   9,L,Z
    1,L,J
    5,L
+   1
+  24,L,D
+   1,L,J
+   2,L
   40
 
 #lvl_e-03
 #8x
-   1,L
-  33,L,J
-  15,U,X
-  27,J
+  12,L
+  23,L,J
+   6,L
+  15,L,U,Z
+   2
+   9,L
+  12,J,G
+   6,K,G
+   1,J
+  17,R,K
   14,R,U,X
   63,C
   12,R
@@ -1927,4 +1984,4 @@ EndRepeat
   29,L
    4,L,J
 
-ChapterTime: 6:49.989(24117)
+ChapterTime: 6:46.045(23885)
