@@ -1,9 +1,9 @@
-# OTHERSIDE 44X
+# OTHERSIDE 40X
 
 # CrossoverCollab
 # https://gamebanana.com/mods/637482
 
-RecordCount: 16552
+RecordCount: 16557
 
 console load CrossoverCollab/1-Submissions/CatAndComparator
    1
@@ -303,7 +303,7 @@ EndRepeat
   40
 
 #lvl_06 - Corruption (1)
-#5x
+#4x
   40,R
    4
    4,Z
@@ -327,70 +327,95 @@ EndRepeat
   17,R,U,Z
    7,L
   12,L,J,G
-   8,R,K,G
-   8,R
-   3,R,J
-  17,R
-  14,R,X
-  39,R,D
-  11,R,Z
-
-
-
-
-
+   7,R,K,G
+  26,R
+  15,R,X
+   3,D
+  48,R,D
+   1,R
+   1
+   1,R
+   1
+   1,R
+   1
+   5,R
+   1,G
+   2,R
+   1,G
+   1
    1,R,J
-   3,R
+   1,J
+   1
+   8,R
+   3,G
+   1
+   1,J
+   8,R,K,G
+   2,L,K
+   1,R,K
+   1,J,G
+   1,L,J
+   1,R,K,G
+   1,J,G
+  10,R,J
+   1,L,J
+   2,R,J
+   1,L,J
+  13,R,K,G
+   4,R,J,G
+  12,R
+   1,R,J
+  13,R
   40
 
 #lvl_07 - Loop
 #3x
-   4,R
-   6,R,J
-  19,R,X
+   1,R
+  13,R,J
+  30,R,X
    4,L,J
-   9,L,K
-  25,L,Z
-   2,R,J
-  20,R,Z
+   5,L,K
+   2,L
+  23,L,Z
+   1,R
+   1,L,J
+  21,R,X
    4,R,J
-   6,R,K
-  25,R,G
-   2,R,U,G
-   2,R,J
-   6,R
-   3,R,J
-  18,R,D
+   3,R
+  16,R,D
+   9,R,D,J
+   1,R,K,G
+   8,R
+   6,R,J
   40
 
 #lvl_08 - Leap of Faith
 #0x
+  13,R,J
+   1,J
+   1,R,J
+   1,R
+   1,L
+   2,L,J
+   8,L
    1,R,D
-  22,R,J
-   1,R,K,G
-   3,L,K
-   2,R,K
-   1,R,J,G
-   2,R,K,G
-   5,R
-   2,R,J
-   1
-   4,R
-   4,L
-   1,G
+   1,L,G
    1,J
    6,K,G
-  18,R,K
-   1,R
+  17,R,K
+   1,K
+   1,R,K
    1,R,D
    9,L,D,J
    1,K,G
    1,L,J,G
    6,R,J
-   3,R
-   3
-   1,J
-  10
+   4,R,G
+   1,R
+   1,R,J
+   6,R
+   4
+   1,R
    1,K
    5,L,K
    6,L
@@ -442,43 +467,45 @@ EndRepeat
   40
 
 #lvl_10 - Collection
-#4x
+#3x
    1,D
    9,R,D,J
    5,R
    7,R,J
    5,R
-   2,R,J
+   1,R,J
+   1,J
   29,U,X
-  26
-   5,J
-  10,L,J
-   3,J
-  20,R,U,X
-   4,R,J
-   2,L,J
-   4,L,K
-   5,K
-   4,L,U,K
-  14,L
-   8,R,D
-  10,L,K
-  18,L
-   2,L,D
-  16,D
-   2,R,D
-  12,D
-   4,L,D
-   1,D
+  11
    1,L
-  14,R,Z
-   4,R,J
-  22,R,K
-  52,U,G
-   3,J,G
-  16,K,G
-  14,U,X
-  17,J
+   5
+   2,L
+   7
+   1,L,D,J
+   4,J
+   6,L,J
+   5,J
+   2,L,J
+   2,J
+  19,R,U,X
+   4,L,J
+   4,L,K
+   1,L
+   2
+   4,R
+   1,J
+   1,R,D
+   2,D
+   1,R,K
+   1,L,J,G
+   8,R,J
+   5,R
+   3,R,J
+  15,U,X
+   6
+  12,L,J
+  12,K,G
+   2,J,G
   40
 
 #lvl_11 - Scrapped Technology
@@ -772,114 +799,169 @@ EndRepeat
 #1x
    7,D
    1,J
-  33,D
-   8,R,D
-   1,J
-   2,R,J
-   3,L,J
+  32,D
+   3,R,D
+   5,R
+   1
+   1,R,D,J
+   8,D,J
    1,R,J
-   3,L,J
    2,J
-   1,R,J
-   1,L,J
-   4,R,J
-   1,L,J
-   8,K,G
-   1,L,K
-   1,R,K
-   2,L,K
-   1,L,J,G
-   1,L,K,G
-Repeat, 3
-   1,R,K
-   1,L,K
-EndRepeat
-   1,R,K
+   3,R,J
    1,J
-  20,L,J
-  15,U,X
-   5,L
-   1,R,J,G
-   1,L,J
    1,R,J
-   7,K
+   1,L,J
+   1,K,G
+   1,R,K
+   1,L,J,G
+   3,L,K,G
+   1,J
+   6,R,J
+   1,J
+   1,L,K,G
+   1,R,K
+   1,K
+   1,R,K
+   1,K
+   1,R,K
+   1,K
+   1,R,K
+   1,K
+   1,R,K
+   1,K
+   1,R,K
+   1,K
+   2,R,K
+   1,L,K
+   1,J,G
+   1,R,J
+   1,L,K,G
+  11,L,K
+   5,K
+  20,U,X
   40
 
 #lvl_14 - Above (1)
-#9x
-   5
-   1,R
-   1,L
-   1,J,G
-   3,R,J
-  13,U,X
-  23,R,J
-  13,R,X
-   1,R,J,G
-   1,R,K,G
-   4,R,J,G
-   1,K
-   2,R,J,G
-   1,L,J
-   6,R,J,G
-   9,R
-   4,R,J
-   7,R
-  18,R,U,J,X
-   4,D
-  14,R,D
-   1,R
-   1,R,D
-# can get coin in 0x if required from here using crouch jump and dcb
+#7x
    2,L,J
    1,R,J
-   5,R
-   1
-   1,R
-   1
-   1,R
-   3
-  13,R
-  15,U,X
-  23,L,U,Z
-  15,R,U,X
-   6
-  11,L,Z
-  26,L,J
-   6,L
-   9,L,X
-  19,L
+   1,L,J
+  11,J
+  11
+   1,G
+  10,J,G
+   1,K
+   2,J,G
+  16,R,J
+  20,R,X
+   1,R,J,G
+   6,R,K,G
    1,J
-   5,K
-   5,R,K
-   1,R
-   7,R,K
-   2,K
-   4,R
-  35,R,J
-   1,R,D
    1,R,K,G
-  11,R
-  11,R,Z
+  10,R,K
+   4,R
+   3
+   4,R
+   6
+  18,R,U,X
+   4,D
+   3,R,D
+   1,D
+  10,R,D
+   1,R
+   1,R,D
+   1,R,D,J
+   1,R,K,G
+  10,R,J,G
+   1,R
+   6,R,J
+   2,R
+  10,L
+   1,L,J
+   1,L
+   1,L,J
+  22,L
+   1,L,D
+   1,G
+   3,J,G
+   4
+   1,L
+   1,J
+  12,L
+   5,L,Z
+   1,J,G
+  23,L,J
+   1,G
+   1
+   1,G
+   1
+   1,G
+   2,L
+   1,G
+   1
+   1,G
+   3
+  22,L
+  15,U,X
+  13,L
+  37,L,U,X
+   4,L,D
+   2,K,G
+   1
+   1,R
+   1,L
+   8,J,G
+  11,L,J
+   1,J
+   1,L
+   1,J
+   1,L,K,G
+   1,L,J,G
+   5,L
+   1,L,J
+  10,L,D
+  10,L
+  15,L,X
+   1
+   1,J
+  14,L,J
+   6,L
+   5,K
+   2,R
+   1,J
+   1
+   3,J
+   6,L
+   1,K
+   4,R,X
    1,R,J
+   1,J
+   6,R,J
+   7,R,D
+   1,R,J
+   9,R,D
+   1,R,J
+   1
+   7,R
   40
 
 #lvl_15 - Souljelly
 #2x
 #+2j
-   1,L
+   3,R,J
    4,R
-   1,R,K
-   1,R
    1,R,J
    1,R,K,G
    9,R
   17,R,J
   15,R,U,X
-  42,R,D
+  41,R,D
+   1,R
    1,R,J
-   7,R
+   6,R
    2,R,J
+   1,R
+   1,R,J
    1,R
   10,R,Z
    1,R,J
@@ -1450,8 +1532,7 @@ EndRepeat
   40,L,U,J,G
   81,L,U,K,G
    1,L,K
-   1,J
-   8,J
+   9,J
   17,R,K
 Repeat, 5
   36,R,J
@@ -1475,8 +1556,7 @@ EndRepeat
    1,R,J,G
   15,R,U,G
   28,R,D,G
-  81,L,U,G
- 114,L,U,G
+ 195,L,U,G
   15,R,D,G
   70,R,G
   13,R,D,G
@@ -1540,8 +1620,7 @@ EndRepeat
 # 0x
 
 # soft lock prevention
- 292
-  83
+ 375
    8,L
    1,L,J
    1,L,K,G
@@ -1593,4 +1672,4 @@ EndRepeat
   15,R,X
  140,R
 
-ChapterTime: 6:55.548(24444)
+ChapterTime: 6:56.415(24495)
