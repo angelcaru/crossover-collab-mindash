@@ -1,9 +1,9 @@
-# OTHERSIDE 40X
+# OTHERSIDE 39X
 
 # CrossoverCollab
 # https://gamebanana.com/mods/637482
 
-RecordCount: 16557
+RecordCount: 16567
 
 console load CrossoverCollab/1-Submissions/CatAndComparator
    1
@@ -547,7 +547,7 @@ EndRepeat
   40
 
 #lvl_12 - Chase
-#2x
+#1x
    2,R,J
    4,R
   10,R,D,X
@@ -600,16 +600,38 @@ EndRepeat
    2,R
    1,J
    1,L,K,G
-  16,R,K
-  19,L,U,X
-   2
-  16,L
-   9,J
-   4,K
+  21,R,K
+  10,G
+   1,D,G
+   1,G
+   2,U,G
+   3,G
+Repeat, 16
+   1
+   1,G
+EndRepeat
+   5
+   3,R
+   2,L,D
+   1,J,G
+   1,R
+   1,S,N
   10,J
+   5,R,J
+   2,R
+   1,L,K,G
+   1,R
+   1
+   4,R
+   3
+   1,L,D
+  10,J,G
+   1,R,J
+   7
+   1,J
+  19
+   1,D
    1,K
-  22,R,J
-  44,R,D
    1,J
    2,L,K,G
    4,L,J,G
@@ -1672,4 +1694,4 @@ EndRepeat
   15,R,X
  140,R
 
-ChapterTime: 6:56.415(24495)
+ChapterTime: 6:56.602(24506)
